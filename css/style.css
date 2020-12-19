@@ -2166,10 +2166,10 @@ button.submit_bt:focus {
 footer {
     background-image: url("../images/footer.png");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100%;
     border-top: solid rgba(255, 255, 255, .2) 1px;
     padding: 75px 0;
-    height: 600px;
+    height: 100%;
 }
 
 footer h3 {
